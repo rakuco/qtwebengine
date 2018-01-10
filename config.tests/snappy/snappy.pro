@@ -1,3 +1,3 @@
-linux:SOURCES += snappy.cpp
+SOURCES += snappy.cpp
 LIBS += -lsnappy
 CONFIG -= qt
